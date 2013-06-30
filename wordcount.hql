@@ -1,5 +1,5 @@
 /*
- * Wordcount 1.0 in HiveQL
+ * Wordcount in HiveQL
  * Tested on Hive version 0.9
  * Author: Jason Levitt
  * Date: May 15th, 2013
