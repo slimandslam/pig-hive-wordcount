@@ -1,5 +1,5 @@
 /*
- * Wordcount 1.0 in Pig Latin
+ * Wordcount in Pig Latin
  * Tested on Pig version 0.10
  * Author: Jason Levitt
  * Date: May 15th, 2013
