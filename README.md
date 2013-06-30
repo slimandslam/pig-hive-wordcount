@@ -12,6 +12,6 @@ Pig and Hive scripts that:
 2. Product diff-able output
 3. Do a pretty good job of counting words
 
-Do make it diffable, I reformat the Hive output to look like the output of the Pig dump command.
+To make it diffable, I reformat the Hive output to look like the output of the Pig dump command.
 The output of the two scripts has been identical, or very close, most of the time, though
 Hive still insists on counting some invisible character occasionally.
