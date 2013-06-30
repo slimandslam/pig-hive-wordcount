@@ -10,6 +10,9 @@
 DROP TABLE myinput;
 DROP TABLE wordcount;
 CREATE TABLE myinput (line STRING);
+
+-- Load the text from the local (Linux) filesystem. This should be changed to HDFS
+-- for any serious usage
 LOAD DATA LOCAL INPATH '/user/someperson/mytext.txt' INTO TABLE myinput;
 
 -- Create a table with the words cleaned and counted.
